@@ -15,7 +15,7 @@
 | [12](#team-12) | 404 |  |  |
 | [13](#team-13) | Semicolone; |  |  |
 | [14](#team-14) | def |  |  |
-| [15](#team-15) | 햄부기 |  |  |
+| [15](#team-15) | 햄부기 | 연구 | Split-Computing Vision Inference System |
 | [16](#team-16) | 퓨터 |  |  |
 | [17](#team-17) | SPY |  |  |
 | [18](#team-18) | 디바트(deep-art) |  |  |
