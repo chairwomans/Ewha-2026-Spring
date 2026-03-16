@@ -148,7 +148,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 | 게임형 독서 기록 서비스 |
+| 프로젝트명 | 유저 간 펜팔을 통해 책 추천을 받고 개인 독서 내역을 기록하는 소셜형 독서 기록 서비스 |
 | 서비스명(브랜드) | |
 | 트랙 | 산학 |
 | 팀명 | reverdir |
@@ -161,7 +161,7 @@
 | 기대 효과 | 게임 요소를 통한 재미있는 독서 경험을 제공하고, 기록 관리 편의성을 증진함 |
 | GitHub Repo | [https://github.com/team-capstone-reverdir-2026/reverdir_repo](https://github.com/team-capstone-reverdir-2026/reverdir_repo) |
 | Team Ground Rule | https://github.com/team-capstone-reverdir-2026/reverdir_repo/blob/main/Team_Ground_Rule.md |
-| 최종수정일 | 2026.03.14 |
+| 최종수정일 | 2026.03.16 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
